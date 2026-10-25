@@ -20,5 +20,56 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "성암문화체육관": {
+      "style": "ribbon",
+      "wall": "#e3e6e8",
+      "glass": "#4d7fa0",
+      "frame": "#b9c0c6"
+    },
+    "지식정보관": {
+      "style": "glass",
+      "wall": "#c9ced2",
+      "glass": "#4f7894",
+      "frame": "#9aa4ab"
+    },
+    "성암기념중앙도서관": {
+      "style": "stone",
+      "wall": "#e8e8e4",
+      "glass": "#48596a",
+      "frame": "#c9cbcb"
+    },
+    "본관": {
+      "style": "stone",
+      "wall": "#d8d2c6",
+      "glass": "#3e4a56",
+      "frame": "#c5bfb3"
+    },
+    "디자인정보관": {
+      "style": "brick",
+      "wall": "#9b4a3a",
+      "glass": "#3a4c5c",
+      "frame": "#c8c6c0"
+    },
+    "화정관": {
+      "style": "brick",
+      "wall": "#8f4637",
+      "glass": "#3b6fa8",
+      "frame": "#c6c4bf"
+    },
+    "인문사회학관": {
+      "style": "brick",
+      "wall": "#8a4a3c",
+      "glass": "#3a4550",
+      "frame": "#d0cdc6"
+    },
+    "제1엘림생활관": {
+      "style": "dorm",
+      "wall": "#b9c0c8",
+      "glass": "#4a5d70",
+      "frame": "#e0e3e6"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
